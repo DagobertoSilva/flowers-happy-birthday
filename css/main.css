@@ -1601,7 +1601,7 @@ body {
   }
 
   100% {
-    bottom: 75vh; /* ⬆️ antes era 75vh */
+    bottom: 65vh; /* ⬆️ antes era 75vh */
     opacity: 1;
     transform: translateX(-50%) scale(1);
   }
